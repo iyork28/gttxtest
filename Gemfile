@@ -41,6 +41,8 @@ gem 'slim'
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem 'aws-sdk'
+
 group :development do
   gem 'sqlite3'
 end
